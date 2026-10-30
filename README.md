@@ -4,7 +4,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 |SOCIETY | UNIVERSITY | LOCATION | EMAIL | SOCIAL MEDIAS |
 |---|---|---|---|---|
 | [Abertay Hackers](https://hacksoc.co.uk/) | Abertay University | Dundee | team@hacksoc.co.uk | @AbertayHackers |
-| | [AFiniteNumberOfMonkeys](http://afnom.net/) |University of Birmingham | Birmingham | chaos@afnom.net | [instagram](https://www.instagram.com/afnom.uob/) [discord](https://discord.gg/EkcRZc4)|
+| [AFiniteNumberOfMonkeys](http://afnom.net/) |University of Birmingham | Birmingham | chaos@afnom.net | [instagram](https://www.instagram.com/afnom.uob/) [discord](https://discord.gg/EkcRZc4)|
 | [Bournemouth University Computer & Security Society](https://www.subu.org.uk/organisation/cybersecuritysociety/) | Bournemouth University | Bournemouth | subucompandsecsoc@bournemouth.ac.uk | [instagram](https://www.instagram.com/_bucss/) |
 | [Bournemouth University CyberSecWomen Society](https://www.subu.org.uk/organisation/cyberwomen/) | Bournemouth University | Bournemouth | subucyberwomen@bournemouth.ac.uk | [insta](https://instagram.com/cybersecwomen) |
 | [Cardiff Met Cyber Society](https://www.cardiffmetsu.co.uk/organisation/cyber/) | Cardiff Met University | Cardiff | ctf@cardiffmet.ac.uk | @ctf_cmu |
