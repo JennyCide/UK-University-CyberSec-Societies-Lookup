@@ -29,4 +29,4 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 | [Teeside Net Society ](https://www.tees-su.org.uk/groups/net-society) | Teeside University | Teeside | TU-NET@outlook.com | [facebook](https://www.facebook.com/NEThackingTUS/) |
 | [UCL Hacking Seminars](https://github.com/UCLHackingSeminars) | University College London | London | N/A | @shad1126 & @lcavallaro|
 | [Warwick Cyber Security Society](https://warwickcybersoc.com/) | Warwick University | Warwick | contact@warwickcybersoc.com | [insta](https://www.instagram.com/warwickcybersoc/) |
-| [CyberSoc(University of York's Cyber Security Society)](https://cybersoc.co.uk/) | University of York | York | cyber@yusu.org | [insta]
+| [CyberSoc(University of York's Cyber Security Society)](https://cybersoc.co.uk/) | University of York | York | cyber@yusu.org | [insta] |
