@@ -26,7 +26,9 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 | [Sheffield Ethical Student Hackers](https://shefesh.com/) | University of Sheffield | Sheffield | ethicalhackers@sheffield.ac.uk | @_shefesh |
 | [Cyber Security Society](https://www.uswsu.com/organisation/uswcss/) | University of South Wales | Newport | 30059581@students.southwales.ac.uk | N/A |
 | [Southampton University Cyber Security Society (SUCSS)](https://www.sucss.org/) | University of Southampton | Southampton | sucss@soton.ac.uk | @sotoncyber |
+| [Staffs Computing Soc (SCS)](https://linktr.ee/staffscomputingsoc) | University of Staffordshire | Stoke-on-Trent | computingsociety@groups.staffs.ac.uk | [insta](https://www.instagram.com/staffscomputingsoc) [linkedin](https://www.linkedin.com/company/staffs-computing-society/) |
 | [Teeside Net Society ](https://www.tees-su.org.uk/groups/net-society) | Teeside University | Teeside | TU-NET@outlook.com | [facebook](https://www.facebook.com/NEThackingTUS/) |
 | [UCL Hacking Seminars](https://github.com/UCLHackingSeminars) | University College London | London | N/A | @shad1126 & @lcavallaro|
 | [Warwick Cyber Security Society](https://warwickcybersoc.com/) | Warwick University | Warwick | contact@warwickcybersoc.com | [insta](https://www.instagram.com/warwickcybersoc/) |
+| [CTF Falcons(UWE's CTF & Cyber Security Society)](https://cybersoc.co.uk/) | University of the West of England | Bristol | contact@ctffalcons.com | [website](https://www.ctffalcons.com/) [Insta](https://www.instagram.com/uwe.falcons/) |
 | [CyberSoc(University of York's Cyber Security Society)](https://cybersoc.co.uk/) | University of York | York | cyber@yusu.org | [insta] |
