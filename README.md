@@ -16,7 +16,7 @@ A comprehensive list of all cyber security/ethical hacking/information security 
 | [University of Gloucestershire Ethical Hacking](https://www.uogsu.com/society/ethicalhacking/) | University of Gloucestershire | Cheltenham | uogethicalhacking@gmail.com | [insta](https://www.instagram.com/ethicalhackinguog/) |
 | [Ethical Hackers](https://www.greenwichsu.co.uk/societies/grecybersec/) | University of Greenwich | London | support@grecybersec.com | @GreCyberSec |
 | [HackKeele](https://keelesu.com/activities/society/hackkeele/) | Keele University | Keele | soc.hack@keele.ac.uk | @hackkeele |
-| [LUHack](https://luhack.github.io/) | Lancaster University | Lancaster | info@luhack.uk | @lancsunihackers |
+| [LUHack](https://luhack.uk) | Lancaster University | Lancaster | info@luhack.uk | @lancsunihackers |
 | [Leeds Hacking Society](https://www.leedsbeckettsu.co.uk/society/ethical-hacking/) | Leeds Beckett University | Leeds | leedshackingsociety@gmail.com | @leedsEHS |
 | [Liverpool Cyber Security Society](https://cybersocuol.github.io/) | University of Liverpool | Liverpool | cybersecurity@society.liverpoolguild.org | [insta](https://instagram.com/cybersocliverpool) |
 | [HackSoc Nottingham](https://hacksocnotts.co.uk/) | University of Nottingham | Nottingham | committee@hacksocnotts.co.uk | @hacksocnotts |
